@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    /* max-width: calc(980px - 32px); */
+    max-width: 980px;
+    background: white;
+    margin-left: auto;
+    padding: 16px 16px;
+    margin-right: auto;
+    /* padding-left: 16px;
+    padding-right: 16px; */
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+}
+.table{
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #ccc; 
+}
+.table th, .table td{
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc; 
+}
